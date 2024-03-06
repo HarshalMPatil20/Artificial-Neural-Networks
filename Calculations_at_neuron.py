@@ -1,4 +1,4 @@
-import numpy as np
+
 
 # Inputs From previous layer
 inputs=[1,2,3]
@@ -12,8 +12,12 @@ Bias=3
 #output= Dot Product of inputs and weights + Bias
 
 # Manual Product
-output = inputs[0]*weights[0]+inputs[1]*weights[1]+inputs[2]*weights[2]+Bias
+output_1 = inputs[0]*weights[0]+inputs[1]*weights[1]+inputs[2]*weights[2]+Bias
 
-print(output)
+print(output_1)
 
 # Using Numpy a Dot Product
+import numpy as np
+output_2 = np.dot(inputs,weights) + Bias
+
+print(output_2)
