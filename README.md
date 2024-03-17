@@ -6,3 +6,4 @@
 
 Artificial Neural networks are made up of **Interconnected nodes or neurons in a layered structure that mimics the way biological neurons** signal to one another. They are a subset of machine learning and are at the core of deep learning algorithms.
  
+<img src="./src/Neuron.png" alt="image" >
