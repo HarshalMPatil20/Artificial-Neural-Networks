@@ -39,11 +39,11 @@ Welcome to the Neural Networks from Scratch to Expert repository! This repositor
 
 Neural networks are a class of machine learning models inspired by the structure and functioning of the human brain. They are capable of learning complex patterns and relationships from data, making them powerful tools for various tasks such as classification, regression, and generation.
 
-<img src="./src/Human Neuron.jpg" alt="image" >
+<img src="./src/Human Neuron.jpg" alt="image"  width="500">
 
 Artificial Neural networks are made up of **Interconnected nodes or neurons in a layered structure that mimics the way biological neurons** signal to one another. They are a subset of machine learning and are at the core of deep learning algorithms.
 
-<img src="./src/Structure.png" alt="image" >
+<img src="./src/Structure.png" alt="image" width="500">
 
 ### Why Neural Networks?
 
@@ -65,7 +65,7 @@ Artificial Neural networks are made up of **Interconnected nodes or neurons in a
 
 - **Weights and Biases:** Neural networks learn by adjusting the weights and biases associated with connections between neurons. These parameters control the strength and direction of information flow in the network.
 
-<img src="./src/perceptron.png" alt="image" >
+<img src="./src/perceptron.png" alt="image" width="500">
 
 ### Types of Neural Networks
 
