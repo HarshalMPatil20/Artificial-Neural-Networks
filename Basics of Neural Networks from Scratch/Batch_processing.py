@@ -19,7 +19,6 @@ weights=[[0.2,0.8,-0.5,1.0],
 
 biases=[2,3,0.5]
 
-#####
 # number of Current layer neurons (here 3) 
 # number of Input layer neurons (here 3) 
 
