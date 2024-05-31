@@ -1,6 +1,21 @@
-<img src="./src/neural-network.png" alt="image" width="300" height="auto" >
+<img src="src/python.png" alt="image" width="40" height="40" >&nbsp;
+<img src="./src/numpy.png" alt="image" width="40" height="40" >&nbsp;&nbsp;
+<img src="./src/pandas.png" alt="image" width="40" height="40" >&nbsp;&nbsp;
+<img src="./src/tensorflow.png" alt="image" width="40" height="40" >&nbsp;&nbsp;
+<img src="./src/pytorch.png" alt="image" width="40" height="40" >&nbsp;&nbsp;
+<img src="./src/scikit-learn.png" alt="image" width="40" height="40" >&nbsp;&nbsp;
+<img src="./src/matplotlib.png" alt="image" width="40" height="40" >&nbsp;&nbsp;
+<img src="./src/opencv.png" alt="image" width="40" height="40" >&nbsp;&nbsp;
+
+
+
+
+
 
 # ```Neural Networks from Scratch to Advanced in Python ```
+
+<img src="./src/neural-network.png" alt="image" width="300" height="auto" >
+
 
 Welcome to the Neural Networks from Scratch to Expert repository! This repository is designed to guide you through the journey of learning and implementing neural networks in Python, starting from the basics and progressing to advanced concepts. Whether you're a beginner looking to understand neural networks or an expert seeking to enhance your skills, this repository aims to provide comprehensive resources and examples.
 
